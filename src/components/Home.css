@@ -10,8 +10,10 @@
     /* background-color: cadetblue; */
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
+    /* color: #ec2180; */
+    padding-left: 70px;
 }
 .c1 {
     min-height: 90vh;
