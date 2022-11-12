@@ -15,7 +15,7 @@ const Home = () => {
     <span class="fa-li " style={{fontSize:"calc(3px + 2vmin)"}}><i class="bi bi-geo-alt-fill mx-3" style={{color:"#f00a0a"}}></i> Jaipur, Rajasthan,India</span>
     <span class="fa-li " style={{fontSize:"calc(3px + 2vmin)"}}><i class="bi bi-envelope-fill mx-3" style={{color:"#ffffff"}}></i> vipulgoyal.engr@gmail.com</span>
 
-    <div className='my-3'><a href="https://www.linkedin.com/in/vipul-goyal-861194186" target="_blank"><i class="bi bi-linkedin mx-3" style={{fontSize:"40px"}}></i></a><a href='https://github.com/vipulgoyalengr' target="_blank"><i class="bi bi-github mx-3" style={{fontSize:"40px"}}></i></a>
+    <div className='my-3'><a href="https://www.linkedin.com/in/vipul-goyal-861194186" target="_blank"><i class="bi bi-linkedin mx-3" style={{fontSize:"41px"}}></i></a><a href='https://github.com/vipulgoyalengr' target="_blank"><i class="bi bi-github mx-3" style={{fontSize:"41px"}}></i></a>
     {/* <i class="bi bi-instagram mx-3"></i> */}
     </div>
         </div>
