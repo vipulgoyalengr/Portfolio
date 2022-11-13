@@ -8,7 +8,7 @@ const About = () => {
       <div className='container'>
         <div className='row' >
             <h3 className='col-md-6 my-4'> About myself </h3>
-            <div className='col-md-6 my-4 d-flex justify-content-center'> Self-motivated Developer with experience of 1year of collaborating and working on multiple web based projects. Passionate, hardworking coder with penchant for developing customized interfaces. Enthusiastic team player ready to contribute to company success. </div>
+            <div className='col-md-6 my-4 d-flex justify-content-center'> Self-motivated Developer with experience of 1+ year of collaborating and working on multiple web based projects. Passionate, hardworking coder with penchant for developing customized interfaces. Enthusiastic team player ready to contribute to company success. </div>
         </div>
         <div className='row' >
             <h3 className='col-md-6 my-4'> Skills</h3>
