@@ -13,8 +13,8 @@ const Projects = () => {
     <hr className='mx-5'></hr>
       <div className='container my-5'>
         <div className='row '>
-        <div className='col-md-6'>
-        <div className="card" style={{width: "35rem"}}>
+        <div className='col-md-6 my-3'>
+        <div className="card" >
         <img src={project1} className="card-img-top" alt="Portfolio Projects" style={{height:"290px",width:"100%"}}/>
 
   
@@ -25,8 +25,8 @@ const Projects = () => {
 <a href="https://github.com/vipulgoyalengr/NewsMonkey.git" target="_blank" > <button type="button" class="btn " style={{color:"white",borderColor:"white"}}> <i class="bi bi-code-slash"></i> View Github</button></a>
         </div>
 
-        <div className='col-md-6'>
-        <div className="card" style={{width: "35rem"}}>
+        <div className='col-md-6 my-3'>
+        <div className="card" >
         <img src={project2} className="card-img-top" alt="Portfolio Projects" style={{height:"290px",width:"100%"}}/>
 
   
@@ -41,8 +41,8 @@ const Projects = () => {
         </div>
 
         <div className='row my-3'>
-        <div className='col-md-6'>
-        <div className="card" style={{width: "35rem"}}>
+        <div className='col-md-6 my-3'>
+        <div className="card" >
         <img src={project3} className="card-img-top" alt="Portfolio Projects"style={{height:"290px",width:"100%"}}/>
  
   
@@ -55,8 +55,8 @@ const Projects = () => {
 
         </div>
 
-        <div className='col-md-6'>
-        <div className="card" style={{width: "35rem"}}>
+        <div className='col-md-6 my-3'>
+        <div className="card" >
         <img src={project4} className="card-img-top" alt="Portfolio Projects"style={{height:"290px",width:"100%"}}/>
   
   
@@ -70,8 +70,8 @@ const Projects = () => {
         </div>
         </div>
         <div className='row my-3'>
-        <div className='col-md-6'>
-        <div className="card" style={{width: "35rem"}}>
+        <div className='col-md-6 my-3'>
+        <div className="card" >
         <img src={project5} className="card-img-top" alt="Portfolio Projects"style={{height:"290px",width:"100%"}}/>
 
   
@@ -84,8 +84,8 @@ const Projects = () => {
 
         </div>
 
-        <div className='col-md-6'>
-        <div className="card" style={{width: "35rem"}}>
+        <div className='col-md-6 my-3'>
+        <div className="card" >
         <img src={project6} className="card-img-top" alt="Portfolio Projects"style={{height:"290px",width:"100%"}}/>
  
   

@@ -1,5 +1,5 @@
 import React from 'react';
-import ExampleDoc from '../components/Resume.pdf'
+import ExampleDoc from '../components/Updated-Resume.pdf'
 const About = () => {
   return (
     <div>
